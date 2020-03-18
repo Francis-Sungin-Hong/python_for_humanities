@@ -1,2 +1,2 @@
 # python_for_humanities
-문과생을 위한 파이썬
+<em> 문과생 </em> 을 위한 파이썬
